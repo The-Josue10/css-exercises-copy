@@ -1,12 +1,10 @@
-.header  {
-  font-family: 'Times New Roman', Times, serif;
+.header {
+  font-family: monospace;
   background: papayawhip;
-  padding: 8px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-
- 
+  padding: 8px;
 }
 
 .logo {
@@ -15,7 +13,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-
 }
 
 ul {
@@ -25,7 +22,6 @@ ul {
   padding: 0;
   margin: 0;
   gap: 20px;
-
 }
 
 a {
