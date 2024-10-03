@@ -39,18 +39,17 @@ button {
   padding: 8px 24px;
 }
 
-a {
-  /* this removes the line under our links */
-  text-decoration: none;
-  color: rebeccapurple;
-}
-
 ul {
   list-style-type: none;
   display: flex;
   margin: 0;
   padding: 0;
   gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: rebeccapurple;
 }
 
 .left, .right {
